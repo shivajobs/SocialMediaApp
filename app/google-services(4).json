@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "724318086587",
+    "firebase_url": "https://test4-afe11.firebaseio.com",
+    "project_id": "test4-afe11",
+    "storage_bucket": "test4-afe11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724318086587:android:c1ecd5627ab364ee",
+        "android_client_info": {
+          "package_name": "com.example.shivapc.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724318086587-qvv2k89c0jm2d8k0m55c4vgn5hpjn2lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3w3JlKqCzwHCBMkypFRrYDoyyNxDGnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
